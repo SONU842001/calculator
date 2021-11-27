@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: red;
+
+}
+.container{
+    margin-top: 100px;
+}
+.container table {
+    background-color:red;
+    border-radius: 0rem;
+    border: 1px solid black;
+    height: 600px;
+    width: 400px;
+}
+.container table input[type="button"]{
+    background-color: blue;
+    height: 110px;
+    width: 100px;
+    font-size: 40px;
+  
+    
+}
+.container table input[type="text"]{
+    background-color: blue;
+    height: 110px;
+    width: 300px;
+    font-size: 40px;
+    
+}
